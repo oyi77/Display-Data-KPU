@@ -2,7 +2,7 @@
 
 * Judul Project : Data KPU
 * Screenshots :
-  * ![SS](https://github.com/oyi77/Display-Data-KPU/blob/master/Data-KPU1.jpg)
+  * ![SS](https://github.com/oyi77/Display-Data-KPU/blob/master/Data-KPU1.png)
 * Link APK :
   [Download APK](https://github.com/oyi77/Display-Data-KPU/blob/master/data-kpu.apk)
 * Identitas :
